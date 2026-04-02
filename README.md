@@ -17,8 +17,10 @@ A security camera monitors multiple moving objects. For each frame, features suc
 ## Object Detection Model
 YOLOv5
 
-## Optimization Techniques
+## Techniques
 - Brent-Kung scan algorithm
+
+## Optimization Techniques
 - Tiling
 - Thread coarsening
 
