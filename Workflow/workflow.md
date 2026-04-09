@@ -1,13 +1,13 @@
 Camera
   ↓
-Frame Capture (OpenCV)
-  ↓
-Object Detection Model (YOLOv5)
-  ↓
-Feature Extraction
-  ↓
-GPU Ranking (Brent-Kung Scan)
-  ↓
-Priority Selection
-  ↓
-Display Bounding Boxes
+  Frame Capture (OpenCV)
+    ↓
+    Image preporcessing
+     ↓
+     Object detection model
+      ↓
+      Inference Output(the boxes detected) 
+       ↓
+       Drawing boundign boxes 
+        ↓ 
+        Displaying annotated video
