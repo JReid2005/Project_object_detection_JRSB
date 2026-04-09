@@ -11,3 +11,5 @@ Camera
        Drawing boundign boxes 
         ↓ 
         Displaying annotated video
+         ↓
+         Measure FPS
