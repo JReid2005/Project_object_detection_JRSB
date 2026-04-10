@@ -34,9 +34,6 @@ In this project, GPU acceleration is used to process video frames and detect obj
 ## Object Detection Model
 The *YOLOv5 Nano* was selected since it is optimized for embedded devices, has a fast inference and has real-time performance. 
 
-## Techniques
-- Brent-Kung scan algorithm
-
 ## Optimization Techniques
 - Tiling
 - Thread coarsening
